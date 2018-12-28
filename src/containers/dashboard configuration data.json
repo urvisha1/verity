@@ -1,0 +1,164 @@
+Object {
+  "result": Object {
+     "screen": Array [
+      Object {
+			         "backgroundColor": "#045781",
+			        "fontColor": "",
+			        "items": Array [
+		           Object {
+			          "image": "https://t.certified.bz/components/com_applicationsetting/assets/images/menuicon/1517982732_1517028866_72_scan@2x.png",
+			            "itemId": "117",
+			            "itemName": "Scan",
+			            "itemType": "1",
+			         },
+		          	Object {
+		            "image": "https://t.certified.bz/components/com_applicationsetting/assets/images/menuicon/1517904020_1516714973_search@2x.png",
+		             "itemId": "106",
+		             "itemName": "Search",
+		           "itemType": "2",
+			        },
+		          	Object {
+		            "image": "https://t.certified.bz/components/com_applicationsetting/assets/images/menuicon/1517904020_1516714973_about-us@2x.png",
+		            "itemId": "107",
+		           "itemName": "About Us",
+		            "itemType": "3",
+		           },
+		          	Object {
+		           "image": "https://t.certified.bz/components/com_applicationsetting/assets/images/menuicon/1517904020_1516714973_chat@2x.png",
+		            "itemId": "108",
+		            "itemName": "Chat",
+		             "itemType": "4",
+		        	},
+		         Object {
+		            "image": "https://t.certified.bz/components/com_applicationsetting/assets/images/menuicon/1517904020_1517219377_RSS_FEEDS2X.png",
+		            "itemId": "109",
+		            "itemName": "Recall",
+		             "itemType": "5",
+		          },
+		        Object {
+		            "image": "https://t.certified.bz/components/com_applicationsetting/assets/images/menuicon/1517904020_1516864506_invite@2x.png",
+		            "itemId": "113",
+		             "itemName": "Invite",
+		            "itemType": "6",
+		         },
+		          Object {
+		            "image": "https://t.certified.bz/components/com_applicationsetting/assets/images/menuicon/1519625621_Verity-form-icon2x.png",
+		            "itemId": "118",
+		           "itemName": "VERITY Token",
+		           "itemType": "8",
+		          },
+		        ],
+		         "screenName": "Dashboard",
+		        "screenType": "0",
+		        "settingIcon": "https://t.certified.bz/components/com_applicationsetting/assets/images/settingicon/1516711036_setting.png",
+		        "topHeaderColor": "#ffffff",
+		        "topHeaderImage": "https://t.certified.bz/components/com_applicationsetting/assets/images/backimage/1516711036_homeLogo@2x.png",
+	      },
+      		Object {
+		        "backButtonImage": "https://t.certified.bz/components/com_applicationsetting/assets/images/backimage/1516711035_backimage.png",
+		        "backgroundColor": "#ffffff",
+		        "fontColor": "#045781",
+		        "items": Array [
+	           	Object {
+		            "itemId": "1",
+		            "itemName": "Verity Inc.
+					 FAU Research Incubator
+					 3651 FAU Boulevard
+					 Suite 400
+					 Boca Raton, FL 33431
+					 &nbsp;
+					 (561) 279-2855
+					 certified.bz
+					 Verity Inc. is a global third party verification company with offices in Boca Raton, Dubai, Hong Kong, Kiev, London.
+					 Technology Cloud | Mobile system using blockchain, Watson AI and IoT internet of thing devices.
+					 Version No : .01d.Beta",
+					             "itemType": "1",
+					             "redirectUrl": "",
+	           },
+	           Object {
+	             "itemId": "4",
+	             "itemName": "Privacy Policy",
+	             "itemType": "2",
+	             "redirectUrl": "https://www.iubenda.com/privacy-policy/7766075",
+	           },
+	           Object {
+	             "itemId": "5",
+	             "itemName": "Terms of Service",
+	             "itemType": "2",
+	             "redirectUrl": "https://s3-us-west-1.amazonaws.com/verity.app/TermsAndConditions.html",
+	           },
+	           Object {
+	             "itemId": "8",
+	             "itemName": "Location Summary",
+	             "itemType": "5",
+	             "redirectUrl": "Location Summary",
+	           },
+	         ],
+	         "screenName": "About Us",
+	         "screenType": "1",
+	         "settingIcon": "https://t.certified.bz/components/com_applicationsetting/assets/images/settingicon/1516711036_setting.png",
+	         "topHeaderColor": "#ffffff",
+	         "topHeaderImage": "https://t.certified.bz/components/com_applicationsetting/assets/images/backimage/1516711036_homeLogo@2x.png",
+       	},
+       	Object {
+         "backButtonImage": "https://t.certified.bz/components/com_applicationsetting/assets/images/backimage/1516711035_backimage.png",
+         "backgroundColor": "#ffffff",
+         "fontColor": "#00BBF9",
+         "items": Array [
+	           Object {
+	             "isEditable": "1",
+	             "itemId": "8",
+	             "itemName": "Name",
+	             "itemType": "1",
+	             "itemValue": "idreamtest4",
+	             "redirectUrl": "",
+	           },
+	           Object {
+	             "isEditable": "1",
+	             "itemId": "9",
+	             "itemName": "Birthday",
+	             "itemType": "4",
+	             "itemValue": "06-05-2018",
+	             "redirectUrl": "",
+	           },
+	           Object {
+	             "isEditable": "1",
+	             "itemId": "10",
+	             "itemName": "Mobile Number",
+	             "itemType": "3",
+	             "itemValue": "(((((",
+	             "redirectUrl": "",
+	           },
+	           Object {
+	             "isEditable": "2",
+	             "itemId": "11",
+	             "itemName": "Email",
+	             "itemType": "1",
+	             "itemValue": "idreamtest4@gmail.com",
+	             "redirectUrl": "",
+	           },
+	           Object {
+	             "isEditable": "2",
+	             "itemId": "4",
+	             "itemName": "Privacy Policy",
+	             "itemType": "2",
+	             "redirectUrl": "https://www.iubenda.com/privacy-policy/7766075",
+	           },
+	           Object {
+	             "isEditable": "2",
+	             "itemId": "5",
+	             "itemName": "Terms of Service",
+	             "itemType": "2",
+	             "redirectUrl": "https://s3-us-west-1.amazonaws.com/verity.app/TermsAndConditions.html",
+	           },
+	         ],
+	         "screenName": "Settings",
+	         "screenType": "2",
+	         "signoutColor": "#dc2932",
+	         "signouttext": "Sign Out",
+	         "topHeaderColor": "#ffffff",
+       },
+     ],
+   },
+   "success": "1",
+ }

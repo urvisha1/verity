@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "VerityOne",
+    "description": "A very interesting project.",
+    "slug": "VerityOne",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier":"com.certified.verityscanningOne",
+      "supportsTablet": true,
+      "config": {
+        "googleSignIn": {
+          "reservedClientId" : "131022361841-ms9vr5360tbsfa06tmd8dr1duf493e1o.apps.googleusercontent.com"
+        }
+      }
+    },
+    "android": {
+     "package": "com.certified.verityscanningOne",
+     "config": {
+        "googleSignIn": {
+          "apiKey" : "1022361841-7431bfbrm8qidpd9l7m9cldn1vd3nl65.apps.googleusercontent.com",
+          "certificateHash": "5252A593F27EFB8F05635D66492E518DA2E4195E"
+        }
+      }
+   }
+
+  }
+}

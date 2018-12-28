@@ -1,0 +1,74 @@
+success message for response of report
+
+Thank you for your report. We will attend to the problem as soon as possible.
+
+
+
+Object {
+   "message": "Review submitted successfully",
+   "result": Object {
+     "address": "16490 NW 13th Avenue,Miami,Florida,United States,33169",
+     "avgRating": "0.000000",
+     "category": "Cabinet Hardware",
+     "companyUniqueId": "NA",
+     "isRate": "1",
+     "isReview": "1",
+     "lat": "25.923906",
+     "lng": "-80.223320",
+     "productDesc": "NA",
+     "productDetails": Array [
+       Object {
+         "placeholder": "Name",
+         "type": "0",
+         "value": "Bow Handle for Daysailors 1234",
+       },
+       Object {
+         "placeholder": "Category",
+         "type": "0",
+         "value": "Cabinet Hardware",
+       },
+       Object {
+         "placeholder": "Verified",
+         "type": "0",
+         "value": "Not Certified",
+       },
+       Object {
+         "placeholder": "UPC",
+         "type": "0",
+         "value": "085226343667",
+       },
+       Object {
+         "placeholder": "Address",
+         "type": "0",
+         "value": "16490 NW 13th Avenue,Miami,Florida,United States,33169",
+       },
+       Object {
+         "placeholder": "Website",
+         "type": "0",
+         "value": "http://www.perko.com",
+       },
+     ],
+     "productId": "3228",
+     "productImage": "https://t.certified.bz/media/com_mtree/images/listings/m/3153.jpg",
+     "productName": "Bow Handle for Daysailors 1234",
+     "rateUserCount": "2",
+     "review": Object {
+       "id": "145",
+       "productId": "3228",
+       "profileImage": "https://lh4.googleusercontent.com/-Cg12EJwlJyE/AAAAAAAAAAI/AAAAAAAAAAA/AB6qoq1R44tR8OXJFK3hUD7TQdYdnf9MRg/s400/photo.jpg",
+       "reviewDate": "2018-06-19",
+       "reviewText": "Test",
+       "reviewTitle": "Test",
+       "reviewValue": "0.000000",
+       "userId": "760",
+       "userName": "idreamtest4",
+     },
+     "sealPercentage": "NA",
+     "thumbImage": "https://t.certified.bz/media/com_mtree/images/listings/s/3153.jpg",
+     "totalReviews": "2",
+     "upcCode": "085226343667",
+     "website": "http://www.perko.com",
+   },
+   "success": 1,
+   "total": 0,
+ }
